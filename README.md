@@ -18,4 +18,4 @@ Tasko is a web application to manage todo lists. It allows users to create a new
 
 ## Firebase configuration
 
-Before running this project it is required to setup firebase configuration object in ../Tasko/src/main.js file.
+Before running this project it is required to setup firebase configuration object in `.../Tasko/src/main.js` file.
